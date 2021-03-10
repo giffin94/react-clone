@@ -1,0 +1,23 @@
+{
+  "name": "react-clone",
+  "version": "1.0.0",
+  "description": "Making a clone of react to better understand hooks!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giffin94/react-clone.git"
+  },
+  "author": "Aedan Giffin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/giffin94/react-clone/issues"
+  },
+  "homepage": "https://github.com/giffin94/react-clone#readme",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
